@@ -18,7 +18,7 @@ Live News App with Next.js and MediaStack API. This app allows users to explore 
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
       - [Next js ](#nextjs-installation)
-       - [MediaStack API and Configuration ](##mediastack-api-and-configuration)
+       - [MediaStack API and Configuration ](#mediastack-api-and-configuration)
        - [Tailwind ](#tailwind-installation)
      - [Clone Project](#clone-project)
 - [Contact](#contact)
