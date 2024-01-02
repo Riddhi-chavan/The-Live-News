@@ -31,7 +31,7 @@ Live News App with Next.js and MediaStack API. This app allows users to explore 
 
 ## Demo 
 
-![Demo](<URL_TO_SCREENSHOT_2>)
+https://github.com/Riddhi-chavan/The-Live-News/assets/130183432/2357921f-2575-4d85-ba74-53c0ec2c410d
 
 ## [Live Demo](https://the-live-news.vercel.app/)
 
