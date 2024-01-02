@@ -12,7 +12,7 @@ Live News App with Next.js and MediaStack API. This app allows users to explore 
   - [Features](#features)
   - [Screenshots](#screenshots)
   - [Demo](#tech-stack)
-  - [Live Demo](#tech-stack)
+  - [Live Demo](#demo)
   - [Tech Stack](#tech-stack)
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
