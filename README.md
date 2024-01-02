@@ -27,7 +27,7 @@ Live News App with Next.js and MediaStack API. This app allows users to explore 
 
 ## Screenshots
 
-![Photo](<URL_TO_SCREENSHOT_1>)
+![Screenshot (343)](https://github.com/Riddhi-chavan/The-Live-News/assets/130183432/6e9fa2a3-10db-402d-a1ed-c18bdb0cba66)
 
 ## Demo 
 
