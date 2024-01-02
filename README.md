@@ -1,5 +1,6 @@
 
-![App Logo](<URL_TO_YOUR_LOGO_IMAGE>)
+
+![livenews-removebg-preview](https://github.com/Riddhi-chavan/The-Live-News/assets/130183432/34ae1ba2-f46e-4a6d-bb29-cde68e791a01)
 
 # Live News App with MediaStack API and Next.js
 
