@@ -33,7 +33,7 @@ Live News App with Next.js and MediaStack API. This app allows users to explore 
 
 ![Demo](<URL_TO_SCREENSHOT_2>)
 
-## [Live Demo](url)
+## [Live Demo](https://the-live-news.vercel.app/)
 
 ## Features
 
